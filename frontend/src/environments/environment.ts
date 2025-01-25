@@ -10,7 +10,7 @@
 export const environment = {
   production: false,
   hostServer: 'http://localhost:3000',
-  password: 'password@123'
+  password: 'ghp_1234567890abcdef01234567890abcdef'
 }
 
 /*
